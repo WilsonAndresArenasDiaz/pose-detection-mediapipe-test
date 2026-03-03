@@ -6,7 +6,7 @@
 |--------|-----|
 | **Wilson Andrés Arenas Díaz** | 👨‍💻 Visión por computadora, integración MediaPipe |
 | **Jhoan Sebastian Montanez Alvis** | 🔧 Ajuste de umbral y precisión |
-| **Andrés Felipe García Del Río** | 🎨 Interfaz visual y documentación |
+| **Andres Felipe Garcia Del Rio** | 🎨 Interfaz visual y documentación |
 
 📌 **Repositorio:** [https://github.com/WilsonAndresArenasDiaz/pose-detection-mediapipe-test](https://github.com/WilsonAndresArenasDiaz/pose-detection-mediapipe-test)
 
