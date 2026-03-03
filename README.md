@@ -1,6 +1,41 @@
 # Pose-Detection-Mediapipe-Test
 
-# integrantes: Wilson Andres Arenas Diaz, Jhoan Sebastian Montanez Alvis, Andres Feliep Garcia Del Rio
+## 👥 INTEGRANTES DEL EQUIPO
+
+| Nombre | Rol |
+|--------|-----|
+| **Wilson Andrés Arenas Díaz** | 👨‍💻 Visión por computadora, integración MediaPipe |
+| **Jhoan Sebastian Montanez Alvis** | 🔧 Ajuste de umbral y precisión |
+| **Andrés Felipe García Del Río** | 🎨 Interfaz visual y documentación |
+
+📌 **Repositorio:** [https://github.com/WilsonAndresArenasDiaz/pose-detection-mediapipe-test](https://github.com/WilsonAndresArenasDiaz/pose-detection-mediapipe-test)
+
+---
+
+## 📊 DISTRIBUCIÓN DEL TRABAJO
+
+| Punto | Descripción | Responsable |
+|-------|-------------|-------------|
+| **Punto 1** | Análisis del código MediaPipe | Todo el equipo |
+| **Punto 2** | Etiqueta "De pie/Sentado" | Wilson Arenas |
+| **Punto 3** | Conexión con Arduino (código y simulación) | Todo el equipo |
+| **Punto 4** | README y documentación | Andrés García / Jhoan Montanez |
+
+### 🔧 Contribuciones específicas:
+- **Jhoan:** Ajustó el umbral de detección (línea `UMBRAL = 60`) para mejorar precisión entre posturas
+- **Andrés:** Mejoró la interfaz visual (colores, tamaños de texto)
+- **Wilson:** Configuración inicial, integración MediaPipe-Arduino y corrección de errores
+
+---
+
+## ✅ ESTADO DE LA ENTREGA
+
+- [x] Punto 1: Análisis completo del código
+- [x] Punto 2: Etiqueta funcional (De Pie/Sentado)
+- [x] Punto 3: Código listo para Arduino (modo simulación incluido)
+- [x] Punto 4: README completo en GitHub
+
+📅 **Fecha de entrega:** 4 de marzo de 2025
 
 
 Detección de postura (de pie/sentado) con MediaPipe y control de LEDs con Arduino
