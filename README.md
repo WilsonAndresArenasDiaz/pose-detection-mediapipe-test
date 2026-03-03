@@ -21,6 +21,9 @@ Detección de postura (de pie/sentado) con MediaPipe y control de LEDs con Ardui
 ---
 
 ## 📸 **DEMOSTRACIÓN EN VIVO**
+<img width="643" height="387" alt="image" src="https://github.com/user-attachments/assets/eaacdc28-16ff-4413-9ad3-d45da033debd" />
+<img width="667" height="366" alt="image" src="https://github.com/user-attachments/assets/24657a02-92df-4de7-a932-787b9edb7598" />
+<img width="667" height="366" alt="image" src="https://github.com/user-attachments/assets/1902e838-4142-4a42-95bf-99bae2b8665e" />
 
 <div align="center">
   <table>
