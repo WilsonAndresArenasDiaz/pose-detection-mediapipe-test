@@ -1,4 +1,8 @@
 # pose-detection-mediapipe-test
+
+# integrantes: Wilson Andres Arenas Diaz, Jhoan Sebastian Montanez Alvis, Andres Feliep Garcia Del Rio
+
+
 Detección de postura (de pie/sentado) con MediaPipe y control de LEDs con Arduino
 ![Multimedia](https://github.com/user-attachments/assets/46509bbd-f052-4119-880f-1072872a14dd)
 
