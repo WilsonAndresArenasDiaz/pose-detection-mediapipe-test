@@ -113,9 +113,9 @@ def main():
         # Dibujar en pantalla
         cv2.rectangle(frame, (10, 10), (400, 80), (0, 0, 0), -1)
         if estado == "De Pie":
-            color_texto = (0, 0, 255)  # Rojo
+            color_texto = (255, 0, 0)  # Rojo
         elif estado == "Sentado":
-            color_texto = (0, 255, 0)  # Verde
+            color_texto = (255,255,0)  # Verde
         else:
             color_texto = (255, 255, 255)  # Blanco
         
